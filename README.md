@@ -1,4 +1,4 @@
-# Machine Learning Dashboard React App
+# DOLLAR_DIGITS - Machine Learning Dashboard React App
 
 Welcome to the Machine Learning Dashboard React App! This application is designed to provide comprehensive analytics for products, including revenue and expense trends. It also includes a machine learning model to predict next year's revenue based on historical data.
 
